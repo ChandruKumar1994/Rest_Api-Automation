@@ -29,6 +29,7 @@ public class GetcallValidation {
 		else{
 			System.out.println(res1.getStatusCode());
 			Assert.fail("Please give the correct value");
+			System.out.println("Success");
 			
 		}
 
