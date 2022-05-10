@@ -31,6 +31,8 @@ public class GetcallValidation {
 			Assert.fail("Please give the correct value");
 			System.out.println("Success");
 			System.out.print("Hello");
+			System.out.println("Success");
+			System.out.print("Hello");
 		}
 
 
