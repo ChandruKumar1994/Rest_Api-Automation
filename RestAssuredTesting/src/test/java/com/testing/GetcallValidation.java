@@ -35,4 +35,9 @@ public class GetcallValidation {
 
 	}
 
+	@Test
+	public void printing(){
+		System.out.println("Beast");
+	}
+
 }
